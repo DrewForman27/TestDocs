@@ -1,2 +1,2 @@
 Welcome to the TestDocs wiki!
-DANG!
+WAHOO!
